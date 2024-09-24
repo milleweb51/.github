@@ -4,10 +4,10 @@ Bienvenue sur l’organisation GitHub de MilléWEB ! Nous sommes une entreprise 
 
 Services proposés 💼
 
-	•	🌍 Création de sites web : Développement de sites internet modernes, réactifs et optimisés pour une navigation fluide.
-	•	🛠️ Développement d’applications web : Des solutions personnalisées, performantes, et sécurisées, en utilisant les technologies récentes (React, Node.js, etc.).
-	•	🔐 Maintenance et support : Service complet de maintenance et de mise à jour pour assurer la stabilité et la sécurité de vos projets web.
-	•	📈 Optimisation SEO : Amélioration de la visibilité et du référencement de votre site web pour un meilleur positionnement dans les moteurs de recherche.
+	• 🌍 Création de sites web : Développement de sites internet modernes, réactifs et optimisés pour une navigation fluide.
+	• 🛠️ Développement d’applications web : Des solutions personnalisées, performantes, et sécurisées, en utilisant les technologies récentes (React, Node.js, etc.).
+	• 🔐 Maintenance et support : Service complet de maintenance et de mise à jour pour assurer la stabilité et la sécurité de vos projets web.
+	• 📈 Optimisation SEO : Amélioration de la visibilité et du référencement de votre site web pour un meilleur positionnement dans les moteurs de recherche.
 
 Projets et dépôt privés 🔒
 
@@ -17,5 +17,5 @@ Comment travailler avec nous ? 🤝
 
 Si vous souhaitez collaborer sur un projet ou avez besoin d’une expertise technique, nous serions ravis de discuter de vos besoins.
 
-	•	Visitez notre site web : milleweb.fr 🌐
-	•	Contact@milleweb.fr
+	• Visitez notre site web : milleweb.fr 🌐
+	• Contact@milleweb.fr
