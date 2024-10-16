@@ -18,4 +18,4 @@ Comment travailler avec nous ? 🤝
 Si vous souhaitez collaborer sur un projet ou avez besoin d’une expertise technique, nous serions ravis de discuter de vos besoins.
 
 	• Visitez notre site web : milleweb.fr 🌐
-	• Contact@milleweb.fr
+	• contact@milleweb.fr
