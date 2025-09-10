@@ -1,21 +1,62 @@
-Bienvenue chez MilléWEB 🌐
+# Bienvenue chez **milleweb** 🌐
 
-Bienvenue sur l’organisation GitHub de MilléWEB ! Nous sommes une entreprise freelance spécialisée dans la création de sites web et de solutions digitales sur-mesure. 🚀 Nous offrons des services de développement web adaptés aux besoins spécifiques de nos clients, allant de la conception à la mise en ligne, avec un accent sur la qualité, la performance, et l’optimisation SEO. 💡
+> **Accompagnement complet** pour créer un site web utile, rapide et plus éthique.  
+> Vitrine • E-commerce • Sur-mesure
 
-Services proposés 💼
+---
 
-	• 🌍 Création de sites web : Développement de sites internet modernes, réactifs et optimisés pour une navigation fluide.
-	• 🛠️ Développement d’applications web : Des solutions personnalisées, performantes, et sécurisées, en utilisant les technologies récentes (React, Node.js, etc.).
-	• 🔐 Maintenance et support : Service complet de maintenance et de mise à jour pour assurer la stabilité et la sécurité de vos projets web.
-	• 📈 Optimisation SEO : Amélioration de la visibilité et du référencement de votre site web pour un meilleur positionnement dans les moteurs de recherche.
+## 👋 À propos
 
-Projets et dépôt privés 🔒
+Bienvenue sur l’organisation GitHub de **milleweb** !
 
-En tant que freelance, MilléWEB valorise la confidentialité et la personnalisation des solutions pour chaque client. Tous nos dépôts de projets sont privés, afin de garantir la sécurité et la confidentialité des données de nos clients.
+J’accompagne les entreprises dans leur projet de création de site web.  
+Qu’il s’agisse d’un **site vitrine**, d’un **site e-commerce** ou d’un **développement sur-mesure**, je transforme le besoin client en **produit unique**.
 
-Comment travailler avec nous ? 🤝
+Mon approche s’adresse aux entreprises qui veulent concilier **efficacité digitale** et **responsabilité numérique**.
 
-Si vous souhaitez collaborer sur un projet ou avez besoin d’une expertise technique, nous serions ravis de discuter de vos besoins.
+---
 
-	• Visitez notre site web : www.milleweb.fr 🌐
-	• contact@milleweb.fr
+## 🧰 Ce que je prends en charge (de A à Z)
+
+- 🌍 **Nom de domaine** & **hébergement**
+- 🔐 **Sécurité** & **maintenance**
+- 🚀 **Performance** & **SEO**
+- 📊 **Analytics** (respectueux de la vie privée)
+
+> Tout est **centralisé**. Vous restez concentré sur votre activité — **je m’occupe du reste**.
+
+---
+
+## 🧱 Principes & technologies
+
+- 🧩 Solutions basées sur des **technologies libres**  
+- 🇫🇷 Hébergement sur **serveurs français**
+- 💸 **Transparence tarifaire** : pas d’abonnement caché, pas de piège technique
+
+**Ma différence face aux agences classiques :** un **accompagnement complet**, de **A à Z**, pour un site **sur-mesure** et **plus éthique**.
+
+---
+
+## 🔒 Projets & dépôts privés
+
+En tant que freelance, **milleweb** valorise la **confidentialité** et la **personnalisation** pour chaque client.  
+Tous les dépôts liés aux projets sont **privés**, afin de garantir la **sécurité** et la **confidentialité** des données.
+
+<details>
+<summary>Pourquoi des dépôts privés ?</summary>
+
+- Protection des données et des accès  
+- Contexte métier non exposé publiquement  
+- Déploiements et secrets gérés en sécurité
+</details>
+
+---
+
+## 🤝 Travailler ensemble
+
+📩 Un projet de création de site web ?  
+Écrivez-moi à **[enzoquelenis@milleweb.fr](mailto:enzoquelenis@milleweb.fr)**  
+ou passez par le site : **https://www.milleweb.fr**
+
+---
+> _milleweb_
